@@ -1,0 +1,17 @@
+
+.zoo1{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../images/HD-wallpaper-jai-shree-krishna-bhagwan-lord-radhe-shree-krishna-shri-krishna.jpg);
+    background-repeat: no-repeat;
+}
+@media(max-width:800px){
+    .zoo1{
+        background-image: url(../images/PES-deer.jpg);
+    }
+}
+@media(max-width:500px){
+    .zoo1{
+        background-image: url(../images/peakpx-2.jpg);
+    }
+}

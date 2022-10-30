@@ -1,0 +1,47 @@
+*{
+    background-color: lightsteelblue;
+}
+
+
+.img2{
+margin-left: 900px;    
+   
+}
+
+
+
+.title{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightcyan;
+    margin-left: 250pt;
+    margin-right: 270pt;
+    margin-top: 40pt;
+    font-size: 4.3vh;
+    padding: 10px;
+}
+.title2{
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 550px;
+    margin-top: pt;
+    font-size: 40px;
+}
+.in{
+    margin-left: 200px;
+    font-size: 20px;
+
+}
+.info{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.add{
+    margin-top: 10px;
+    font-size: 18px;
+    margin-left: 30px
+}
+#button{
+    margin-left: 1000px;
+}
